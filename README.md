@@ -1,1 +1,17 @@
 # Random-Password-Generator
+
+
+# ​ Random Password Generator (Flask Web App)
+
+A simple yet customizable random password generator built with **Flask** and **Bootstrap**.  
+Users can choose password length and include spaces, numbers, symbols, and uppercase letters.
+
+...
+
+## Installation & Usage
+
+```bash
+git clone https://github.com/SHASHANKBHATT03/Random-Password-Generator.git
+cd Random-Password-Generator
+pip install flask
+python app.py
