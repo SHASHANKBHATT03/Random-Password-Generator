@@ -1,8 +1,5 @@
 # Random-Password-Generator
 
-<<<<<<< HEAD
-Blog Link - https://machinelearningprojects.net/random-password-generator-flask-app/
-=======
 
 # ​ Random Password Generator (Flask Web App)
 
