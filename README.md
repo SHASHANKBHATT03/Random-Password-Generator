@@ -15,4 +15,3 @@ git clone https://github.com/SHASHANKBHATT03/Random-Password-Generator.git
 cd Random-Password-Generator
 pip install flask
 python app.py
->>>>>>> 964e17db58bc5295017d54c2121fd9ea4dda136c
